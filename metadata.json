@@ -1,0 +1,6 @@
+{
+  "name": "Animatopia Kaimosi",
+  "description": "An anime social platform for Kaimosi, Kenya, featuring social feeds, watchlists, meetups, and real-time community chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
